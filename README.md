@@ -1,4 +1,4 @@
-## Hi there, I am Anthony Zhu 👋
+## Hi there, I am Anthony 👋
 
 <!--
 **anthonyz77/anthonyz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
