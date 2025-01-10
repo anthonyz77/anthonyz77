@@ -2,9 +2,30 @@
 I’m a recent Computer Science graduate from Stony Brook University, in December 2024. Passionate about building efficient and scalable software, I enjoy working on full-stack web applications, and cloud solutions.
 
 ### 🔧 Tech Stack:
-- Languages: Javascript, HTML, CSS, Java, Python, C, SQL, PHP, Ocaml, MIPS Assembly
-- Libraries/Frameworks: React.js, Node.js, Express.js, Axios.js, Spring Boot, Mongoose ODM, Dash.js, Nodemailer, Bull Queue, Chart.js, React-plotly.js, Leaflet.js, BCrypt
-- Tools: Linux Terminal, Nginx, Apache 2.0, Docker, Portainer, MongoDB, MySQL, Redis, Memcached, PM2, FFmpeg, HPC Cluster, SLURM, Postfix, Ansible, Elasticsearch, Kibana, Certbot, VirtualBox, Mongo Compass, GitHub
+<div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Javascript</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">HTML</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">CSS</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Java</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Python</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">C</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">SQL</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">PHP</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Ocaml</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">MIPS Assembly</span>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 5px; margin-top: 10px;">
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">React.js</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Node.js</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Express.js</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Spring Boot</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Chart.js</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Nodemailer</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">Bull Queue</span>
+    <span style="border: 1px solid #ccc; border-radius: 5px; padding: 5px 10px;">MongoDB</span>
+  </div>
+</div>
 
 ### 📂 Featured Projects:
 - CloudPlay: Cloud video sharing website
