@@ -20,7 +20,6 @@ I’m a recent Computer Science graduate from Stony Brook University in December
 - Personal Website
 - Leetcode Practice
 - Aquiring AWS Certifications
-- More personal projects!
 
 ### 📫 Reach Me:
 [LinkedIn](https://www.linkedin.com/in/anthonyzhu7) | [Email](mailto:anthonyzhu7@gmail.com)
