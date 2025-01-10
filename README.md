@@ -23,8 +23,7 @@ I’m a recent Computer Science graduate from Stony Brook University in December
 - More personal projects!
 
 ### 📫 Reach Me:
-<a href="https://www.linkedin.com/in/anthonyzhu7" target="_blank">LinkedIn</a> | <a href="mailto:anthonyzhu7@gmail.com" target="_blank">Email</a>
-
+[LinkedIn](https://www.linkedin.com/in/anthonyzhu7) | [Email](mailto:anthonyzhu7@gmail.com)
 
 ### ⚡ Fun fact:
 I enjoy playing and collecting boardgames. My current favorite is by far Res Arcana by Sand Castle Games.
