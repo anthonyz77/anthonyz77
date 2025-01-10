@@ -1,33 +1,10 @@
 # 👋 Hi there, I am Anthony,
 I’m a recent Computer Science graduate from Stony Brook University, in December 2024. Passionate about building efficient and scalable software, I enjoy working on full-stack web applications, and cloud solutions.
 
-<h2>🔧 Tech Stack</h2>
-<h3>Languages</h3>
-<span style="background-color:#f4b400; color: white; padding: 5px; border-radius: 3px;">JavaScript</span>
-<span style="background-color:#34a853; color: white; padding: 5px; border-radius: 3px;">HTML</span>
-<span style="background-color:#4285f4; color: white; padding: 5px; border-radius: 3px;">CSS</span>
-<span style="background-color:#db4437; color: white; padding: 5px; border-radius: 3px;">Java</span>
-<span style="background-color:#fbbc05; color: white; padding: 5px; border-radius: 3px;">Python</span>
-<span style="background-color:#0f9d58; color: white; padding: 5px; border-radius: 3px;">C</span>
-<span style="background-color:#ff6d00; color: white; padding: 5px; border-radius: 3px;">SQL</span>
-<span style="background-color:#a142f4; color: white; padding: 5px; border-radius: 3px;">PHP</span>
-<span style="background-color:#ea4335; color: white; padding: 5px; border-radius: 3px;">Ocaml</span>
-<span style="background-color:#ff7043; color: white; padding: 5px; border-radius: 3px;">MIPS Assembly</span>
-
-<h3>Libraries/Frameworks</h3>
-<span style="background-color:#f7df1e; color: black; padding: 5px; border-radius: 3px;">React.js</span>
-<span style="background-color:#61dafb; color: black; padding: 5px; border-radius: 3px;">Node.js</span>
-<span style="background-color:#333333; color: white; padding: 5px; border-radius: 3px;">Express.js</span>
-<span style="background-color:#007ACC; color: white; padding: 5px; border-radius: 3px;">Axios.js</span>
-<span style="background-color:#6DB33F; color: white; padding: 5px; border-radius: 3px;">Spring Boot</span>
-<!-- Add similar styling for other libraries/frameworks -->
-
-<h3>Tools</h3>
-<span style="background-color:#4CAF50; color: white; padding: 5px; border-radius: 3px;">Linux Terminal</span>
-<span style="background-color:#DD0031; color: white; padding: 5px; border-radius: 3px;">Nginx</span>
-<span style="background-color:#0078D7; color: white; padding: 5px; border-radius: 3px;">Apache 2.0</span>
-<!-- Add similar styling for other tools -->
-
+🔧 Tech Stack: 
+- Languages: Javascript, HTML, CSS, Java, Python, C, SQL, PHP, Ocaml, MIPS Assembly
+- Libraries/Frameworks: React.js, Node.js, Express.js, Axios.js, Spring Boot, Mongoose ODM, Dash.js, Nodemailer, Bull Queue, Chart.js, React-plotly.js, Leaflet.js, BCrypt
+- Tools: Linux Terminal, Nginx, Apache 2.0, Docker, Portainer, MongoDB, MySQL, Redis, Memcached, PM2, FFmpeg, HPC Cluster, SLURM, Postfix, Ansible, Elasticsearch, Kibana, Certbot, VirtualBox, Mongo Compass, GitHub
 
 📂 Featured Projects:
 - CloudPlay: Cloud video sharing website
