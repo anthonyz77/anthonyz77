@@ -26,7 +26,7 @@ I’m a recent Computer Science graduate from Stony Brook University in December
 [LinkedIn](https://www.linkedin.com/in/anthonyzhu7) | [Email](mailto:anthonyzhu7@gmail.com)
 
 ### ⚡ Fun fact:
-I enjoy playing and collecting boardgames. My current favorite is by far Res Arcana by Sand Castle Games.
+I enjoy playing and collecting board games. My current favorite is by far Res Arcana by Sand Castle Games.
 <div align="left">
   <img src="https://github.com/user-attachments/assets/a72ef8ec-3e24-48f1-8ae0-7284674160a1" alt="Res Arcana Game" style="border: 1px solid #ccc; border-radius: 10px; width: 200px; height: auto;">
 </div>
