@@ -14,8 +14,6 @@ I’m a recent Computer Science graduate from Stony Brook University, in Decembe
 <h3> 🌟 What I’m Currently Working On: </h3>
 - Personal Website
 - Leetcode Practice
-
-<h3> 🔭 What I Plan to Work on: </h3>
 - Aquiring AWS Certifications
 - More personal projects!
 
