@@ -2,13 +2,13 @@
 I’m a recent Computer Science graduate from Stony Brook University in December 2024. Passionate about building efficient and scalable software, I enjoy working on full-stack web applications, and cloud solutions.
 
 ### 🔧 Tech Stack:
-  #### Languages:
+#### Languages:
 <kbd>Javascript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Java</kbd> <kbd>Python</kbd> <kbd>C</kbd> <kbd>SQL</kbd> <kbd>PHP</kbd> <kbd>Ocaml</kbd> <kbd>MIPS Assembly</kbd>  
 
-  #### Libraries/Frameworks:
+#### Libraries/Frameworks:
 <kbd>React.js</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>Axios.js</kbd> <kbd>Spring Boot</kbd> <kbd>Mongoose ODM</kbd> <kbd>Dash.js</kbd> <kbd>Nodemailer</kbd> <kbd>Bull Queue</kbd> <kbd>Chart.js</kbd> <kbd>React-Plotly.js</kbd> <kbd>Leaftlet.js</kbd> <kbd>BCrypt</kbd>
 
-  #### Tools:
+#### Tools:
 <kbd>Linux Terminal</kbd> <kbd>Nginx</kbd> <kbd>Apache 2.0</kbd> <kbd>Docker</kbd> <kbd>Portainer</kbd> <kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>Redis</kbd> <kbd>Memcached</kbd> <kbd>PM2</kbd> <kbd>FFmpeg</kbd> <kbd>HPC Cluster</kbd> <kbd>SLURM</kbd> <kbd>Postfix</kbd> <kbd>Ansible</kbd> <kbd>Elasticsearch</kbd> <kbd>Kibana</kbd> <kbd>Certbot</kbd> <kbd>VirtualBox</kbd> <kbd>Mongo Compass</kbd> <kbd>GitHub</kbd>
 
 ### 📂 Featured Projects:
