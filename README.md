@@ -1,5 +1,5 @@
 # 👋 Hi there, I am Anthony,
-I’m a recent Computer Science graduate from Stony Brook University in January 2025. Passionate about building efficient and scalable software, I enjoy working on full-stack web applications, and cloud solutions.
+I’m a Computer Science major from Stony Brook University in January 2025. Passionate about building efficient and scalable software, I enjoy working on full-stack web applications, and cloud solutions.
 
 ### 🔧 Tech Stack:
 #### Languages:
